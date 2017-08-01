@@ -1,2 +1,0 @@
-# taras
-Project Taras licensing 
